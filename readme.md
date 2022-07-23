@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source/ Machine Learning Projects**
 
-- 📫 How to reach me **shivamsinghal24@gmail.com**
+- 📫 Reach me at: **shivamsinghal24@gmail.com**
 
 ## 👨‍💻 Languages and Tools
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
