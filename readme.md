@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px" height="45px" />, I'm Shivam Singhal</h1>
 <h3 align="center">A passionate Machine Learning developer</h3>
 
@@ -32,3 +33,5 @@
 <a href="https://www.leetcode.com/shivam2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivam2000" height="50" width="60" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shivamsinghal24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shivamsinghal24" height="50" width="60" /></a>
 </p>
+
+![](https://github.com/Manas1820/Manas1820/raw/master/footer.png)
