@@ -14,11 +14,14 @@
 
   
 ## 🏆 Github Status
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam24-2000&show_icons=true&locale=en&layout=compact&theme=dark" alt="shivam24-2000" /></p>
+<div align="center">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam24-2000&show_icons=true&hide_border=true&theme=dark&layout=compact&hide=python,javascript,html,css" alt="shivam24-2000" width="41%"  >
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam24-2000&show_icons=true&locale=en&theme=dark" alt="shivam24-2000" /></p>
+<img  src="https://github-readme-stats.vercel.app/api?username=shivam24-2000&show_icons=true&hide_border=true&theme=dark&count_private=true" >
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam24-2000&theme=dark" alt="shivam24-2000" /></p>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=shivam24-2000&theme=dark" >
+</div>
+
 
 <h3 align="center">Let's connect and chat!</h3>
 <p align="center">
