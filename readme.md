@@ -28,7 +28,7 @@ An aspiring developer eager to contribute to the tech world. I'm passionate abou
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=shivam24-2000&theme=dark" >
 </div>
 
-
+<br>
 <h3 align="center">Let's connect!</h3>
 <p align="center">
 <a href="https://linkedin.com/in/shivam-singhal-538369191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-singhal-538369191" height="50" width="60" /></a>
