@@ -33,7 +33,6 @@ An aspiring developer eager to contribute to the tech world. I'm passionate abou
 <p align="center">
 <a href="https://linkedin.com/in/shivam-singhal-538369191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-singhal-538369191" height="50" width="60" /></a>
 <a href="https://www.leetcode.com/shivam2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivam2000" height="50" width="60" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shivamsinghal24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shivamsinghal24" height="50" width="60" /></a>
 <a href="https://twitter.com/shivams45137862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivams45137862" height="50" width="60" /></a>
 </p>
 
