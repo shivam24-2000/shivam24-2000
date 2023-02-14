@@ -23,7 +23,7 @@ An aspiring developer eager to contribute to the tech world. I'm passionate abou
   
 ## 🏆 Github Status
 <div align="center">
-<! -- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam24-2000&show_icons=true&hide_border=true&theme=dark&layout=compact&hide=python,javascript,html,css" alt="shivam24-2000" width="41%"  > -->
+<! -- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam24-2000&show_icons=true&hide_border=true&theme=dark&layout=compact&hide=python,javascript,html,css" alt="shivam24-2000" width="41%"> 
 
 <img  src="https://github-readme-stats.vercel.app/api?username=shivam24-2000&show_icons=true&hide_border=true&theme=dark&count_private=true" >
 
