@@ -7,7 +7,7 @@ An aspiring developer eager to contribute to the tech world. I'm passionate abou
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam24-2000&label=Profile%20views&color=0e75b6&style=flat" alt="shivam24-2000" /> </p>
 
 
-- 🌱 I’m currently learning **ASP.Net, ASP.Net MVC Controller, Clean Architecture.**
+- 🌱 I’m currently learning **Springboot,WebAPI,Clean Architecture.**
 
 - 👯 I’m looking to collaborate on **Open Source/ Machine Learning Projects**
 
