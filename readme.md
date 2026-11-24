@@ -144,16 +144,12 @@ RESTful backend services in **ASP.NET Core Web API** with Entity Framework and *
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivam24-2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam24-2000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivam24-2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&hide=issues,contribs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam24-2000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook,css,html" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shivam24-2000&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam24-2000&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
