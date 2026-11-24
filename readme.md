@@ -19,6 +19,10 @@
   <img src="https://img.shields.io/badge/Based%20in-Hyderabad%2C%20India-blue?style=flat" />
 </p>
 
+<p align="center">
+  <img src="./assets/terminal.svg" alt="Animated terminal intro: Shivam Singhal, Software Engineer at Bank of America" width="100%" />
+</p>
+
 ---
 
 ## 👋 About Me
@@ -31,15 +35,6 @@ I'm a **Software Engineer at Bank of America** who loves shipping things end-to-
 - 🧠 **Foundations:** Data Structures & Algorithms, competitive programming, and Machine Learning
 - ⚡ **Fun fact:** I automate anything I have to do more than twice
 
-```ts
-const shivam = {
-  role: "Software Engineer @ Bank of America",
-  stack: [".NET / C#", "Java / Spring Boot", "TypeScript / React", "React Native", "Python"],
-  currentlyBuilding: ["AI agents", "LLM-powered developer tools"],
-  lookingFor: "Teams building ambitious products",
-  contact: "shivamsinghal24@gmail.com",
-};
-```
 
 ---
 
