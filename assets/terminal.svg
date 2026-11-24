@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="512" viewBox="0 0 860 512" role="img" aria-label="Shivam Singhal terminal intro">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#0f172a"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset="0.5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+<animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0;-1 0" dur="8s" repeatCount="indefinite"/></linearGradient>
+<style>.m{white-space:pre;font-family:'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono','Courier New',monospace;font-size:14px}</style>
+</defs>
+<rect x="1.5" y="1.5" width="857" height="509" rx="14" fill="url(#bg)" stroke="url(#edge)" stroke-width="2"/>
+<rect x="1.5" y="1.5" width="857" height="40" rx="14" fill="#111827"/>
+<rect x="1.5" y="28" width="857" height="14" fill="#111827"/>
+<line x1="2" y1="42" x2="858" y2="42" stroke="#1f2937"/>
+<circle cx="26" cy="22" r="6.5" fill="#ff5f57"/><circle cx="48" cy="22" r="6.5" fill="#febc2e"/><circle cx="70" cy="22" r="6.5" fill="#28c840"/>
+<text x="430.0" y="27" text-anchor="middle" class="m" fill="#64748b" font-size="13">shivam@github: ~ — zsh</text>
+<clipPath id="c0"><rect x="28" y="74" height="26" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" values="0;0;81.6;81.6;0" keyTimes="0;0.0375;0.0675;0.9625;1"/></rect></clipPath>
+<g clip-path="url(#c0)"><text x="30" y="92" class="m" xml:space="preserve"><tspan fill="#34d399" font-weight="700">❯ </tspan><tspan fill="#f8fafc">whoami</tspan></text></g>
+<clipPath id="c1"><rect x="28" y="103" height="26" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" values="0;0;648.4;648.4;0" keyTimes="0;0.0894;0.0969;0.9625;1"/></rect></clipPath>
+<g clip-path="url(#c1)"><text x="30" y="121" class="m" xml:space="preserve"><tspan fill="#f8fafc" font-weight="700">Shivam Singhal</tspan><tspan fill="#94a3b8">  ·  Software Engineer @ </tspan><tspan fill="#38bdf8" font-weight="700">Bank of America</tspan><tspan fill="#94a3b8">  ·  Hyderabad, IN</tspan></text></g>
+<clipPath id="c2"><rect x="28" y="140" height="26" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" values="0;0;157.65;157.65;0" keyTimes="0;0.1250;0.1859;0.9625;1"/></rect></clipPath>
+<g clip-path="url(#c2)"><text x="30" y="158" class="m" xml:space="preserve"><tspan fill="#34d399" font-weight="700">❯ </tspan><tspan fill="#f8fafc">cat mission.txt</tspan></text></g>
+<clipPath id="c3"><rect x="28" y="169" height="26" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" values="0;0;656.85;656.85;0" keyTimes="0;0.2078;0.2153;0.9625;1"/></rect></clipPath>
+<g clip-path="url(#c3)"><text x="30" y="187" class="m" xml:space="preserve"><tspan fill="#a78bfa" font-weight="700">→ </tspan><tspan fill="#e2e8f0">I build AI agents that do real work, and backends that don't fall over.</tspan></text></g>
+<clipPath id="c4"><rect x="28" y="206" height="26" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" values="0;0;233.7;233.7;0" keyTimes="0;0.2434;0.3353;0.9625;1"/></rect></clipPath>
+<g clip-path="url(#c4)"><text x="30" y="224" class="m" xml:space="preserve"><tspan fill="#34d399" font-weight="700">❯ </tspan><tspan fill="#f8fafc">ls ~/projects --featured</tspan></text></g>
+<clipPath id="c5"><rect x="28" y="235" height="26" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" values="0;0;538.55;538.55;0" keyTimes="0;0.3572;0.3647;0.9625;1"/></rect></clipPath>
+<g clip-path="url(#c5)"><text x="30" y="253" class="m" xml:space="preserve"><tspan fill="#34d399" font-weight="700">NexCode-AI/</tspan><tspan fill="#34d399" font-weight="700">    ColdEmailAgent/</tspan><tspan fill="#34d399" font-weight="700">    SmartCart/</tspan><tspan fill="#34d399" font-weight="700">    Movies-API/</tspan></text></g>
+<clipPath id="c6"><rect x="28" y="272" height="26" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" values="0;0;216.8;216.8;0" keyTimes="0;0.3928;0.4778;0.9625;1"/></rect></clipPath>
+<g clip-path="url(#c6)"><text x="30" y="290" class="m" xml:space="preserve"><tspan fill="#34d399" font-weight="700">❯ </tspan><tspan fill="#f8fafc">cat stack.json | jq -c</tspan></text></g>
+<clipPath id="c7"><rect x="28" y="301" height="26" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" values="0;0;707.55;707.55;0" keyTimes="0;0.4997;0.5072;0.9625;1"/></rect></clipPath>
+<g clip-path="url(#c7)"><text x="30" y="319" class="m" xml:space="preserve"><tspan fill="#94a3b8">{"backend":</tspan><tspan fill="#fbbf24">[".NET","Spring Boot","Node"]</tspan><tspan fill="#94a3b8">,"ai":</tspan><tspan fill="#f472b6">["Claude","TensorFlow","OpenCV"]</tspan><tspan fill="#94a3b8">}</tspan></text></g>
+<clipPath id="c8"><rect x="28" y="330" height="26" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" values="0;0;724.45;724.45;0" keyTimes="0;0.5353;0.5428;0.9625;1"/></rect></clipPath>
+<g clip-path="url(#c8)"><text x="30" y="348" class="m" xml:space="preserve"><tspan fill="#94a3b8">{"apps":</tspan><tspan fill="#fbbf24">["React","React Native","Angular","Swift"]</tspan><tspan fill="#94a3b8">,"cloud":</tspan><tspan fill="#f472b6">["Supabase","Vercel"]</tspan><tspan fill="#94a3b8">}</tspan></text></g>
+<clipPath id="c9"><rect x="28" y="367" height="26" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" values="0;0;250.6;250.6;0" keyTimes="0;0.5709;0.6697;0.9625;1"/></rect></clipPath>
+<g clip-path="url(#c9)"><text x="30" y="385" class="m" xml:space="preserve"><tspan fill="#34d399" font-weight="700">❯ </tspan><tspan fill="#f8fafc">./build_something_great.sh</tspan></text></g>
+<clipPath id="c10"><rect x="28" y="396" height="26" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" values="0;0;445.6;445.6;0" keyTimes="0;0.6916;0.7916;0.9625;1"/></rect></clipPath>
+<g clip-path="url(#c10)"><text x="30" y="414" class="m" xml:space="preserve"><tspan fill="#64748b">[</tspan><tspan fill="#38bdf8" font-weight="700">████████████████████████</tspan><tspan fill="#64748b">] 100%  </tspan><tspan fill="#34d399" font-weight="700">✔ ready to ship</tspan></text></g>
+<clipPath id="c11"><rect x="28" y="425" height="26" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" values="0;0;411.8;411.8;0" keyTimes="0;0.8197;0.8272;0.9625;1"/></rect></clipPath>
+<g clip-path="url(#c11)"><text x="30" y="443" class="m" xml:space="preserve"><tspan fill="#e2e8f0" font-weight="700">✉  shivamsinghal24@gmail.com</tspan><tspan fill="#94a3b8">   — let's talk.</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.8553;0.8559;0.9625;1"/><text x="30" y="472" class="m" xml:space="preserve"><tspan fill="#34d399" font-weight="700">❯ </tspan></text><rect x="48.9" y="458" width="9" height="18" fill="#38bdf8"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect></g>
+</svg>
