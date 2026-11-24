@@ -95,6 +95,14 @@ RESTful backend services in **ASP.NET Core Web API** with Entity Framework and *
 </tr>
 </table>
 
+### ⚙️ Under the hood — how ColdEmailAgent works
+
+<p align="center">
+  <a href="https://github.com/shivam24-2000/ColdEmailAgent">
+    <img src="./assets/architecture.svg" alt="Animated architecture diagram of ColdEmailAgent: React dashboard, FastAPI backend, lead discovery, Claude LLM, Gmail OAuth and Supabase" width="100%" />
+  </a>
+</p>
+
 <details>
 <summary><b>🔬 More projects — Machine Learning & Computer Vision</b></summary>
 <br>
