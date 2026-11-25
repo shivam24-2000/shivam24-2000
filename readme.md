@@ -153,7 +153,7 @@ RESTful backend services in **ASP.NET Core Web API** with Entity Framework and *
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivam24-2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&hide=issues,contribs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivam24-2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&hide=issues,contribs" />
 </p>
 
 <p align="center">
