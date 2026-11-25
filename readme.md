@@ -38,6 +38,14 @@ I'm a **Software Engineer at Bank of America** who loves shipping things end-to-
 
 ---
 
+## 🔭 Right Now
+
+- 🔨 **Building:** [ColdEmailAgent](https://github.com/shivam24-2000/ColdEmailAgent) — making the autonomous outreach pipeline smarter and more reliable
+- 🌐 **Polishing:** my [portfolio site](https://shivam-singhal.vercel.app/)
+- 💼 **Open to:** exciting SDE roles, based in Hyderabad, India
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
