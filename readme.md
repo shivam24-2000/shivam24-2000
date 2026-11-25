@@ -153,14 +153,6 @@ RESTful backend services in **ASP.NET Core Web API** with Entity Framework and *
   <img src="https://streak-stats.demolab.com?user=shivam24-2000&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivam24-2000/shivam24-2000/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivam24-2000/shivam24-2000/output/github-snake.svg" />
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/shivam24-2000/shivam24-2000/output/github-snake-dark.svg" width="95%" />
-  </picture>
-</p>
-
 ---
 
 ## 🤝 Let's Build Something
